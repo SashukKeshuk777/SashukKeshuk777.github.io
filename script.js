@@ -1,3 +1,5 @@
 let tg = Window.Telegram.WebApp;
 tg.expand();
-alert(tg.initDataUnsafe.user.id);
+let a = tg.initDataUnsafe.user.id);
+p = $('.info');
+p.innerText = a;
